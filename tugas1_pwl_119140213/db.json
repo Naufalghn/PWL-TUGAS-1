@@ -1,0 +1,69 @@
+{
+  "ListBarang": [
+    {
+      "id": 1,
+      "nama": "Keychain",
+      "harga": 50000,
+      "jumlah": "2",
+      "is_ready": true,
+      "gambar": "keychain1.jpg",
+      "category": {
+        "id": 1,
+        "nama":"Merch"
+      }
+    },
+    {
+      "id": 2,
+      "nama": "hoodie",
+      "harga": 150000,
+      "jumlah": "1",
+      "is_ready": true,
+      "gambar": "hoodie.jpg",
+      "category": {
+        "id": 2,
+        "nama":"Merch"
+      }
+    },
+    {
+      "id": 3,
+      "nama": "kaos",
+      "harga": 75000,
+      "jumlah": "1",
+      "is_ready": true,
+      "gambar": "kaos.jpg",
+      "category": {
+        "id": 3,
+        "nama":"Merch"
+      }
+    }
+    
+  ],
+  "ListToko": [
+    {
+      "id": 1,
+      "nama": "KYRAMERCH",
+      "menjual": "Merch Anime",
+      "jarak": "7km",
+      "is_ready": true,
+      "gambar": "KYRAMERCH.jpg",
+      "category": {
+        "id": 1,
+        "nama":"Toko"
+      }
+    },
+    {
+      "id": 2,
+      "nama": "NERO MERCH",
+      "menjual": "Merch Anime",
+      "jarak": "7km",
+      "is_ready": true,
+      "gambar": "NERO MERCH.jpg",
+      "category": {
+        "id": 2,
+        "nama":"Toko"
+      }
+    }
+    
+    
+  ]
+}
